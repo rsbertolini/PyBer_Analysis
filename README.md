@@ -26,4 +26,5 @@ In summary, I would recommend the following:
 2.  94% of revenue is coming from urban and suburban settings so growth should still focus no these markets so incentivizing drivers in these markets may help as the average
     fare per driver is significantly lower in these city settings and may be discouraging to drivers.
 
-3.  need more here
+3.  Over the 4 month period rural ridership stayed relatively stagnant with little growth, however, urban and suburban trends are upward which show higher adoption of the service
+    and projected future growth.
