@@ -10,11 +10,11 @@ The purpose of this project was to read in 2 CSV files and merge to 1 dataframe,
  distance had anything to do with the average cost per trip as the trip distance was not available.  It is possible that rural trips lead to greater distances being driven which
  also could drive up trip cost.
  
-(/Analysis/Summary_DF.png)
+!(Analysis/Summary_DF.png)
  
  Overall, the 3 city types tended to follow very similar patterns of peaks and valleys over the 4 month timespan.
  
-(/Analysis/PyBer_fare_summary.png)
+!(Analysis/PyBer_fare_summary.png)
 
 ## Summary
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
