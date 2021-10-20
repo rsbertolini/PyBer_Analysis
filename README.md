@@ -11,6 +11,7 @@ The purpose of this project was to read in 2 CSV files and merge to 1 dataframe,
  also could drive up trip cost.
  
 !(Analysis/Summary_DF.png)
+!(Analysis/Summary_DF.png)
  
  Overall, the 3 city types tended to follow very similar patterns of peaks and valleys over the 4 month timespan.
  
