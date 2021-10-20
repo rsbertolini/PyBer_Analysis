@@ -18,7 +18,7 @@ The purpose of this project was to read in 2 CSV files and merge to 1 dataframe,
 ![PyBer Graph](Analysis/PyBer_fare_summary.png)
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+
 In summary, I would recommend the following:
 1.  Further analysis should be done with ride data to pull in ride distance.  This would allow us to analyze the cost per mile between rural and urban settings to see how similar
     costs are in different city settings and remove any disparities that may be keeping rural riders from accessing this service.
